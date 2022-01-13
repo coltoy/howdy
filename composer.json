@@ -1,0 +1,15 @@
+{
+  "name": "cmartygr/328/howdy",
+  "description": "More MVC & F3 Practice!",
+  "minimum-stability": "stable",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Colton Marty",
+      "email": "cmartydev@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
